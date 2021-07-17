@@ -1,16 +1,29 @@
-
-.inner-div{
-  background-color: #202040;
-
+html {
+  font-size: 12px;
 }
 
-.outer-div{
-  background-color: #060930;
-  padding: 100px 100px;
-}
+h2 {}
 
-
-h2, p{
+h2, p {
   color: white;
   text-align: center;
+}
+
+.inner-div {
+  background-color: #202040;
+  position: absolute;
+  width: 400px;
+  height: 300px;
+  left: 250px;
+  top: 50px;
+  right: 250px;
+  bottom: 50px;
+  padding: 40px 0px 0px;
+}
+
+.outer-div {
+  height: 30px;
+  width: 500px;
+  background-color: #060930;
+  padding: 200px 200px;
 }
