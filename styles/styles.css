@@ -1,0 +1,16 @@
+
+.inner-div{
+  background-color: #202040;
+
+}
+
+.outer-div{
+  background-color: #060930;
+  padding: 100px 100px;
+}
+
+
+h2, p{
+  color: white;
+  text-align: center;
+}
