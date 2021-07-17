@@ -12,9 +12,9 @@ h2, p {
 .inner-div {
   background-color: #202040;
   position: absolute;
-  width: 400px;
+  width: 700px;
   height: 300px;
-  left: 250px;
+  left: 112px;
   top: 50px;
   right: 250px;
   bottom: 50px;
@@ -24,6 +24,6 @@ h2, p {
 .outer-div {
   height: 30px;
   width: 500px;
-  background-color: #060930;
+  background-color: #000011;
   padding: 200px 200px;
 }
