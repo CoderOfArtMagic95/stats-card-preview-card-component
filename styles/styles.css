@@ -1,6 +1,6 @@
 
 html {
-  font-size: 13px;
+  font-size: 12px;
 }
 
 h2 {}
@@ -15,12 +15,24 @@ img{
   text-align: right;
   padding-left: 300px;
   width: 400px;
-  height: 300px;
+  height: 340px;
+}
+li{
+  width: 400px;
+  height: 0px;
 }
 ul{
   list-style: none;
 }
+.div-1{
+  position: absolute;
+  top: 0px;
 
+}
+.div-2{
+  position: absolute;
+  top: 50px;
+}
 .inner-div {
   background-color: #202040;
   position: absolute;
