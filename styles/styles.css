@@ -39,15 +39,15 @@ ul{
   width: 700px;
   height: 250px;
   left: 112px;
-  top: 75px;
+  top: 105px;
   right: 250px;
   bottom: 50px;
-  padding-top: 40px;
+  padding-top: 75px;
 }
 
 .outer-div {
   height: 30px;
   width: 500px;
   background-color: #000011;
-  padding: 200px 200px;
+  padding: 250px 200px;
 }
