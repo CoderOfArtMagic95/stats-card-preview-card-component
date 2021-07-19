@@ -16,8 +16,8 @@ img {
   border-radius: 2%;
   text-align: right;
   padding-left: 325px;
-  width: 400px;
-  height: 336px;
+  width: 410px;
+  height: 325px;
 }
 
 li {
@@ -72,19 +72,26 @@ ul {
   font-size: 21px;
   margin-bottom: 0px;
 }
-
+.image-accent-color{
+  background-color: hsl(277, 64%, 61%);
+  border-radius: 2%;
+  text-align: right;
+  padding-left: 325px;
+  width: 410px;
+  height: 325px;
+}
 .inner-div {
   border-radius: 2%;
   background-color: hsl(244, 38%, 16%);
   position: absolute;
   width: 725px;
   height: 275px;
-  left: 149px;
+  left: 146px;
   top: 135px;
   right: 250px;
   bottom: 45px;
-  padding-left: 80px;
-  padding-top: 61px;
+  padding-left: 90px;
+  padding-top: 50px;
 }
 
 .shrink {
@@ -93,7 +100,7 @@ ul {
 
 .outer-div {
   height: 30px;
-  width: 600px;
+  width: 605px;
   background-color: hsl(233, 47%, 7%);
-  padding: 290px 250px;
+  padding: 285px 250px;
 }
