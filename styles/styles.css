@@ -1,23 +1,23 @@
 html {
   font-size: 12px;
   font-family: 'Lexend Deca', sans-serif;
-
 }
 
 h2 {
-  font-size: 20px;
+  font-size: 21px;
+  letter-spacing: 1px;
   color: white;
   text-align: left;
-  padding-left: 50px;
+  padding-left: 70px;
   font-family: 'Open Sans', sans-serif;
-  line-height: 0.5;
+  line-height: 0.25;
 }
 
 img {
   border-radius: 2%;
   text-align: right;
-  padding-left: 280px;
-  width: 450px;
+  padding-left: 295px;
+  width: 470px;
   height: 365px;
 }
 
@@ -31,9 +31,9 @@ p {
   /*font-family: 'Lexend Deca', sans-serif; */
   color: hsla(0, 0%, 100%, 0.5);
   text-align: left;
-  padding-left: 50px;
+  padding-left: 70px;
   font-family: 'Open Sans', sans-serif;
-  line-height: 0.65;
+  line-height: 0.7;
 }
 
 table {
@@ -70,10 +70,17 @@ ul {
 }
 
 .font-h2 {
-  font-size: 28px;
+  font-size: 32px;
   margin-bottom: 0px;
 }
-.image-accent-color{
+
+.font-p2 {
+  font-family: 'Lexend Deca', sans-serif;
+  letter-spacing: 1px;
+  font-size: 10px;
+}
+
+.image-accent-color {
   background-color: hsl(277, 64%, 61%);
   border-radius: 2%;
   text-align: right;
@@ -81,13 +88,14 @@ ul {
   width: 410px;
   height: 325px;
 }
+
 .inner-div {
   border-radius: 2%;
   background-color: hsl(244, 38%, 16%);
   position: absolute;
   width: 725px;
   height: 260px;
-  left: 195px;
+  left: 180px;
   top: 160px;
   right: 250px;
   bottom: 45px;
