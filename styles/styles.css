@@ -24,7 +24,7 @@ li {
 }
 
 p {
-  color: white;
+  color: hsla(0, 0%, 100%, 0.75);
   text-align: left;
   padding-left: 50px;
   font-family: 'Open Sans', sans-serif;
@@ -61,7 +61,7 @@ ul {
 }
 
 .font-color {
-  color: purple;
+  color: hsl(277, 64%, 61%);
 }
 
 .font-h2 {
@@ -70,7 +70,7 @@ ul {
 }
 
 .inner-div {
-  background-color: #202040;
+  background-color: hsl(244, 38%, 16%);
   position: absolute;
   width: 700px;
   height: 250px;
@@ -89,6 +89,6 @@ ul {
 .outer-div {
   height: 30px;
   width: 500px;
-  background-color: #000011;
+  background-color: hsl(233, 47%, 7%);
   padding: 250px 250px;
 }
