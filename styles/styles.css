@@ -13,9 +13,9 @@ h2, p {
 
 img{
   text-align: right;
-  padding-left: 300px;
-  width: 400px;
-  height: 340px;
+  padding-left: 350px;
+  width: 350px;
+  height: 290px;
 }
 li{
   width: 400px;
@@ -31,15 +31,15 @@ ul{
 }
 .div-2{
   position: absolute;
-  top: 50px;
+  top: 10px;
 }
 .inner-div {
   background-color: #202040;
   position: absolute;
   width: 700px;
-  height: 300px;
+  height: 250px;
   left: 112px;
-  top: 50px;
+  top: 75px;
   right: 250px;
   bottom: 50px;
   padding-top: 40px;
