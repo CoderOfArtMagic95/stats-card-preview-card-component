@@ -1,10 +1,11 @@
 html {
-  font-size: 13px;
+  font-size: 12px;
   font-family: 'Lexend Deca', sans-serif;
+
 }
 
 h2 {
-  font-size: 18px;
+  font-size: 20px;
   color: white;
   text-align: left;
   padding-left: 50px;
@@ -17,7 +18,7 @@ img {
   text-align: right;
   padding-left: 280px;
   width: 450px;
-  height: 355px;
+  height: 365px;
 }
 
 li {
@@ -32,7 +33,7 @@ p {
   text-align: left;
   padding-left: 50px;
   font-family: 'Open Sans', sans-serif;
-  line-height: 1;
+  line-height: 0.65;
 }
 
 table {
@@ -69,7 +70,7 @@ ul {
 }
 
 .font-h2 {
-  font-size: 30px;
+  font-size: 28px;
   margin-bottom: 0px;
 }
 .image-accent-color{
@@ -86,12 +87,12 @@ ul {
   position: absolute;
   width: 725px;
   height: 260px;
-  left: 200px;
-  top: 155px;
+  left: 195px;
+  top: 160px;
   right: 250px;
   bottom: 45px;
-  padding-left: 180px;
-  padding-top: 95px;
+  padding-left: 190px;
+  padding-top: 105px;
 }
 
 .shrink {
