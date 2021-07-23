@@ -4,6 +4,7 @@
     padding: 150px 150px;
   }
 }
+
 html {
   display: flex;
   font-size: 13px;
@@ -22,9 +23,10 @@ h2 {
 
 img {
   border-radius: 2%;
-  padding-left: 60px;
-  width: 470px;
-  height: 365px;
+  padding-left: 115px;
+  margin: -15px -15px;
+  width: 491px;
+  height: 395px;
 }
 
 li {
@@ -60,13 +62,11 @@ ul {
   text-align: center;
 }
 
-.div-1 {
-
+.div-1 img {
+  /*background-color: hsl(277, 64%, 61%); */
 }
 
-.div-2 {
-
-}
+.div-2 {}
 
 .font-color {
   color: hsl(277, 64%, 61%);
@@ -98,6 +98,8 @@ ul {
   display: flex;
   flex-direction: row;
   height: 365px;
+  margin: -55px 40px;
+  padding: 15px 15px;
 }
 
 .shrink {
@@ -109,5 +111,5 @@ ul {
   display: flex;
   height: 100vh;
   padding: 285px 250px;
-  width:  1440px;
+  width: 1440px;
 }
