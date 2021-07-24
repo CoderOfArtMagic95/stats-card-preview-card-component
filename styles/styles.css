@@ -25,7 +25,7 @@ img {
   border-radius: 2%;
   margin: 0px -130px;
   width: 562px;
-  height: 405px;
+  height: 433px;
   opacity: 0.5;
 }
 
@@ -66,9 +66,9 @@ ul {
   background-color: hsla(277, 80%, 45%, 0.80);
   border-radius: 2%;
   padding-left: 130px;
-  margin: -15px -15px;
+  margin: -29px -15px;
   width: 432px;
-  height: 405px;
+  height: 433px;
 }
 
 .div-2 {
@@ -97,7 +97,7 @@ ul {
   flex-direction: row;
   height: 375px;
   margin: -105px -75px;
-  padding: 15px 15px;
+  padding: 30px 15px;
 }
 
 .shrink {
