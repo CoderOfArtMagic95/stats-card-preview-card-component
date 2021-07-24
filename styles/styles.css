@@ -23,10 +23,10 @@ h2 {
 
 img {
   border-radius: 2%;
-  padding-left: 115px;
-  margin: -15px -15px;
-  width: 515px;
+  margin: 0px -130px;
+  width: 562px;
   height: 385px;
+  opacity: 0.5;
 }
 
 li {
@@ -62,11 +62,18 @@ ul {
   text-align: center;
 }
 
-.div-1 img {
-  /*background-color: hsl(277, 64%, 61%); */
+.div-1  {
+  background-color: hsla(277, 80%, 45%, 0.80);
+  border-radius: 2%;
+  padding-left: 130px;
+  margin: -15px -15px;
+  width: 432px;
+  height: 385px;
 }
 
-.div-2 {}
+.div-2 {
+  padding-right: 100px;
+}
 
 .font-color {
   color: hsl(277, 64%, 61%);
@@ -81,15 +88,6 @@ ul {
   font-family: 'Lexend Deca', sans-serif;
   letter-spacing: 1px;
   font-size: 10px;
-}
-
-.image-accent-color {
-  background-color: hsl(277, 64%, 61%);
-  border-radius: 2%;
-  text-align: right;
-  padding-left: 325px;
-  width: 410px;
-  height: 325px;
 }
 
 .inner-div {
